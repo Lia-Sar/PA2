@@ -2,6 +2,7 @@
 #include <filesystem>
 #include <string>
 
+// counts the number of directories, files, and bytes of a given directory
 int main(int argc, char *argv[])
 {
    bool flag;
